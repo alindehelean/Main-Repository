@@ -1,0 +1,1 @@
+We will refactor the game app with functions
